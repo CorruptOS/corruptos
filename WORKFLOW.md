@@ -24,7 +24,7 @@ Make your own sandbox, named `yourname/what-youre-doing`.
 git checkout -b yourname/what-youre-doing
 ```
 
-Examples: `rehan/gdt-setup`, `vijay/paging`, `bihari/keyboard-driver`
+Examples: `rehan/gdt-setup`, `vijay/paging`, `priyanshu/keyboard-driver`
 
 Why: keeps your in-progress work isolated so `main` never breaks while you're mid-experiment.
 
